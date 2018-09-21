@@ -15,5 +15,5 @@ chatita.iml
 build/
 mvnw
 mvnw.cmd
-target/
+*.class
 .mvn

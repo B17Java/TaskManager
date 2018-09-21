@@ -1,1 +1,10 @@
+com\javateam\taskmanager\service\impl\TodoServiceImpl.class
 com\javateam\taskmanager\TaskmanagerApplication.class
+com\javateam\taskmanager\repository\TodoRepository.class
+com\javateam\taskmanager\entity\User.class
+com\javateam\taskmanager\repository\UserRepository.class
+com\javateam\taskmanager\service\UserService.class
+com\javateam\taskmanager\service\TodoService.class
+com\javateam\taskmanager\service\impl\UserServiceImpl.class
+com\javateam\taskmanager\controller\UserController.class
+com\javateam\taskmanager\entity\Todo.class
