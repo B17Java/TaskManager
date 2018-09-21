@@ -1,5 +1,4 @@
 *.lnk
-*.class
 *.log
 *.jar
 *.war
@@ -16,3 +15,4 @@ chatita.iml
 build/
 mvnw
 mvnw.cmd
+target/
