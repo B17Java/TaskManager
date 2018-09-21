@@ -1,6 +1,7 @@
 package com.javateam.taskmanager.controller;
 
 import com.javateam.taskmanager.entity.User;
+import com.javateam.taskmanager.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
