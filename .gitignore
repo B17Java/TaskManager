@@ -16,3 +16,4 @@ build/
 mvnw
 mvnw.cmd
 target/
+.mvn
